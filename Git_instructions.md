@@ -28,4 +28,23 @@ git config --global user.email "Ваша почта (user@example.com)"
 ```
 </center>
 
+## 4. Инициализация репозитория
+
+Для инициализации репозитория используйте команду `git init`, чтобы **Git** смог работать с вашей папкой/файлами.
+<center>
+
+![GitInitTrue](gitInitTrue.png)
+
+</center>
+
+Если использовать команды для работы с **Git** без инициализации - вы получите `ошибку`!
+
+<center>
+
+![GitInitFalse](gitInitFalse.png)
+
+</center>
+
+
+
 
