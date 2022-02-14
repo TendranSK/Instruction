@@ -6,3 +6,11 @@
 ## 2. Установка **Git**
 
 Загружаем последнюю версию **Git** с [сайта](https://git-scm.com/downloads) *(https://git-scm.com/downloads)*.
+
+## 3. Настройка **Git**
+
+При первом использовании **Git** необходимо *`представиться`*. Для этого используйте следующие команды: 
+```
+git config --global user.name "Ваше имя (Никнейм)"
+git config --global user.email "Ваша почта (user@example.com)"
+```
