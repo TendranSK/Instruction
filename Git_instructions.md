@@ -128,6 +128,13 @@ git config --global user.email "Ваша почта (user@example.com)"
 
 
 
+
+
+## <center> 10. Слияние веток и разрешение конфликтов </center>
+
+
+
+
 ## <center> Перечень команд </center>
 
 Чтобы посмотреть список команд нужно ввести команду `git help`.
