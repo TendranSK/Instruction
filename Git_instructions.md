@@ -124,6 +124,10 @@ git config --global user.email "Ваша почта (user@example.com)"
 
 </center>
 
+## <center> 9. Создание веток в **Git** </center>
+
+
+
 ## <center> Перечень команд </center>
 
 Чтобы посмотреть список команд нужно ввести команду `git help`.
